@@ -60,7 +60,7 @@ Connect With Me:
 
 GitHub: https://github.com/Mohini-Malap
 
-LinkdIn: https://linkdin.com/in/mohini-malap
+LinkedIn: https://linkedin.com/in/mohini-malap
 
 
 Author:
